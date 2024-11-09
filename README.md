@@ -2,7 +2,7 @@
 
  Hi! I'm Ilesh aka Fate 
 
-   💻  
+   💻 Developer
 
    🌱 Always learning, always building 
 
