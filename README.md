@@ -8,7 +8,7 @@
 
    📫 Reach me: fateideas@proton.me
 
- **🛠 Language and tools**
+ ***🛠 Language and tools***
     
    [![My Skills](https://skillicons.dev/icons?i=python,c,mysql)](https://skillicons.dev)
 
