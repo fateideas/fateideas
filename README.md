@@ -1,4 +1,4 @@
- #**About Me**
+# **About Me**
 
  Hi! I'm Ilesh aka Fate 
 
@@ -8,7 +8,7 @@
 
    📫 Reach me: fateideas@proton.me
 
- #**🛠 Language and tools**
+# **🛠 Language and tools**
     
    [![My Skills](https://skillicons.dev/icons?i=python,c,mysql)](https://skillicons.dev)
 
